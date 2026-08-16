@@ -88,3 +88,43 @@ As principais requisições utilizadas são:
 
 ```text
 GET /products/category/{categoria}
+
+---
+
+# Telas do aplicativo
+
+## Tela de Login
+
+![Tela de Login](prints/login.jpeg)
+
+---
+
+## Produtos Masculinos
+
+![Produtos Masculinos](prints/masculino.jpeg)
+
+---
+
+## Produtos Femininos
+
+![Produtos Femininos](prints/feminino.jpeg)
+
+---
+
+## Categorias
+
+![Categorias](prints/categorias.jpeg)
+
+---
+
+## Detalhes do Produto
+
+![Detalhes do Produto](prints/detalhes.jpeg)
+
+---
+
+## Logout
+
+![Logout](prints/logout.jpeg)
+
+---
