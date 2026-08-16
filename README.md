@@ -1,12 +1,12 @@
-# 🛍️ Loja Mobile
+# Loja Mobile
 
-Aplicativo mobile de e-commerce desenvolvido como projeto acadêmico da disciplina de **Mobile Development**.
+Aplicativo mobile de e-commerce desenvolvido como projeto acadêmico da disciplina de Mobile Development.
 
 O projeto foi desenvolvido utilizando React Native com Expo, com consumo de uma API REST real através do Axios e gerenciamento de estado de autenticação utilizando Redux Toolkit.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Hugo Vieira**
 
@@ -14,7 +14,7 @@ Projeto acadêmico desenvolvido para aplicação prática dos conceitos de desen
 
 ---
 
-## 📱 Sobre o projeto
+## Sobre o projeto
 
 O Loja Mobile é um aplicativo desenvolvido para apresentar produtos de uma loja virtual de maneira simples, responsiva e organizada.
 
@@ -24,7 +24,7 @@ Os produtos são obtidos dinamicamente através da API REST DummyJSON.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Tela de login com validação de campos;
 - Validação do formato do e-mail;
@@ -45,7 +45,7 @@ Os produtos são obtidos dinamicamente através da API REST DummyJSON.
 
 ---
 
-## 🗂️ Categorias
+## Categorias
 
 ### Masculino
 
@@ -63,7 +63,7 @@ Os produtos são obtidos dinamicamente através da API REST DummyJSON.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React Native
 - Expo
@@ -76,9 +76,9 @@ Os produtos são obtidos dinamicamente através da API REST DummyJSON.
 
 ---
 
-## 🌐 API utilizada
+## API utilizada
 
-O projeto utiliza a API pública **DummyJSON** para obtenção dos produtos.
+O projeto utiliza a API pública DummyJSON para obtenção dos produtos.
 
 Documentação oficial:
 
